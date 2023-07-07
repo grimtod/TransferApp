@@ -17,6 +17,6 @@
 - мок имитирующий работу внешнего сервиса ([BankClientMock](https://github.com/grimtod/TransferApp/blob/master/TransferApp/Services/BankClientMock.cs))
 
 ### Условия
-- фреймворк - ASP.NET Core 3.1
-- СУБД (если понадобится) - MS SQL Server
+- фреймворк - ASP.NET Core 3.1 или ASP.NET Core 6
+- СУБД (если понадобится) - MS SQL Server или PostgreSQL
 - изменять поведение BankClientMock нельзя
